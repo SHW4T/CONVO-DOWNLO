@@ -29,7 +29,7 @@
 
 ## Demo Video 🎥  
 [Watch demonstration](https://www.linkedin.com/posts/shwat_programming-python-telegrambots-activity-7324068497485901825-MZ77?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFheUKYBKwZZDEvvdUkR3gMmMJ6eP8me_zg)  
-*(Replace with your actual video link)*
+
 
 ## License 📄  
 MIT License - See [LICENSE](LICENSE) file
