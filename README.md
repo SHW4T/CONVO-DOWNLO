@@ -1,28 +1,26 @@
-# Telegram Media Bot 🤖🎵
-
-A Telegram bot that can:
-1. Convert MP4 videos to MP3 audio files
-2. Download Instagram reels
+# Telegram Media Bot 🤖🎬  
+*A multifunctional Telegram bot for media conversion, Instagram reel downloads, and AI-powered chat*
 
 ## Features ✨
-- `/start` - Show welcome message
-- `/convert` - Convert replied video to MP3
-- `/reel <url>` - Download Instagram reel
+- **Video to MP3 Conversion**  
+  Reply to any video with `/convert` to get audio file
+- **Instagram Reel Downloader**  
+  Send `/reel <URL>` to download videos without watermark
+- **AI Chat Assistant**  
+  Conversational NLP using Hugging Face's Blenderbot model
+- **Admin Tools**  
+  - User analytics (`/users`)
+  - Link tracking (`/links`)
+  - Broadcast messaging (`/broadcast`)
 
-## Setup ⚙️
+## Tech Stack 💻
+- **Python 3.10+**
+- `python-telegram-bot` v20+
+- `instaloader` for Instagram scraping
+- `pydub` for audio conversion
+- Hugging Face Inference API
+- Asynchronous I/O with `asyncio`
 
-### Prerequisites
-- Python 3.8+
-- Telegram bot token from [@BotFather](https://t.me/BotFather)
-- Instagram account (for reel downloading)
-
-### Installation
-1. Clone the repository:
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Configure the bot:
-   - Add your Telegram bot token:
-
-  
+## Setup 🔧
+1. Get Telegram bot token from [@BotFather](https://t.me/BotFather)
+2. Install dependencies:  
