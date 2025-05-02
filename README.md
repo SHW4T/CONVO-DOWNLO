@@ -23,4 +23,14 @@
 
 ## Setup 🔧
 1. Get Telegram bot token from [@BotFather](https://t.me/BotFather)
-2. Install dependencies:  
+2. Install dependencies
+3. Configure `TOKEN`, `TARGET_CHANNEL`, and `AUTHORIZED_USERS` in the script
+4. (Optional) Add Hugging Face API token for enhanced NLP
+
+## Demo Video 🎥  
+[Watch demonstration](https://your-video-link-here.com)  
+*(Replace with your actual video link)*
+
+## License 📄  
+MIT License - See [LICENSE](LICENSE) file
+
