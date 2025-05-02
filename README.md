@@ -28,7 +28,7 @@
 4. (Optional) Add Hugging Face API token for enhanced NLP
 
 ## Demo Video 🎥  
-[Watch demonstration](https://your-video-link-here.com)  
+[Watch demonstration](https://www.linkedin.com/posts/shwat_programming-python-telegrambots-activity-7324068497485901825-MZ77?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFheUKYBKwZZDEvvdUkR3gMmMJ6eP8me_zg)  
 *(Replace with your actual video link)*
 
 ## License 📄  
